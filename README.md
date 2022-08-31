@@ -1,1 +1,1 @@
-Task 0. Where am I?
+ current directory contents, including hidden files 
